@@ -1,0 +1,30 @@
+.div-left{
+    float:left;
+    padding-left:10px;
+}
+.div-right{
+    float:right;
+    padding-right:10px;
+}
+.App-header {
+  background-color: #777;
+  height: 60px;
+
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.deletebutton{
+
+  background-color: #777;
+  color:white;
+  float:right;
+}
+hr{
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}

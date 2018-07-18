@@ -1,0 +1,18 @@
+This project is for academic use only, do not publish anything in the following folder: app
+
+CSCI318 - Software Engineering Practices & Principle
+Group Project	Group 1
+
+Members:
+[Contributed]Tam King Chak Michael
+michaeltam96@hotmail.com
+5633795
+
+[Contributed]Yeung Chung Hang Tony
+Xmenjedi@gmail.com
+5632262
+
+Wong Hoi Kei Gloria
+wonghoi0331@gmai.com
+5980446
+
