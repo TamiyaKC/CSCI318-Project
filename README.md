@@ -53,7 +53,7 @@ Once you get in the page of "Expense Record", you can do some expense recording 
 
 To create new record, get to the create option (Option will blue out when selected), insert date, category, description and amount, then click "Create" button. A newly added record will appear immediately in the table.
 
-To update new record, get to the update option, insert the id of the record to be changed and insert data as you create records, do not leave the text boxes empty if you wanted to keep the original data as empty input is supported, input the same data to keep the data, click "Update" button when you are done.
+To update new record, get to the update option, insert the id of the record to be changed and insert data to be changed, leave the text boxes blank if you want to keep the original data, click "Update" button when you are done.
 
 To delete record, get to the delete option, insert the id of the record to be deleted, click "Delete" button and a confirm window will prompt up, confirm to delete. Insert "-1" as id to have all records deleted.
 
